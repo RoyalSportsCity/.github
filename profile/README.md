@@ -1,4 +1,4 @@
-## Royal Sports City (RSC)
+# Royal Sports City (RSC)
 
 ### Royal Sports City, the importance of sports, and building a city with blockchain and cryptocurrency
 ---
